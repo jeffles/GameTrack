@@ -9,4 +9,4 @@ install:
 script:
   - make syntax
   - python setup.py develop
-  - pytest -sv tests
+  - pytest tests/
