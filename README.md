@@ -1,3 +1,3 @@
 # GameTrack
 
-https://travis-ci.org/travis-ci/travis-web.svg?branch=daily-cron
+[![Build Status](https://travis-ci.org/jeffles/GameTrack.svg?branch=master)](https://travis-ci.org/jeffles/GameTrack)
